@@ -13,5 +13,5 @@ Also, the methods added to the API Stub are as follows:
 - updateConsultation()
 
 <strong>Note:</strong> 
-- The UI has not been concluded in this repo. 
+- The UI has not been concluded in this repo, however, you can find the UI repo <a href="https://github.com/Inderjeet0007/upstac-ui">here</a>! 
 - The db creds for localhost are changed acc to my Mac.
